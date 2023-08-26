@@ -1,0 +1,5 @@
+cmd for git
+git status 
+git commit 
+git add
+:wq!
